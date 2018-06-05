@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/berry120/OLEDCodeGenerator.svg?branch=master)](https://travis-ci.org/berry120/OLEDCodeGenerator)
+
 # OLEDCodeGenerator
 Small utility to generate custom graphics code (compatible with the U8Glib library) for the SSD1306 series of OLED screens from CSV files. These small OLED screens are comaptible out of the box with Arduino and U8Glib and currently cost less than £3 delivered on Ebay, but drawing custom graphics is often a pain as the bytes aren't always in the order you might expect!
 
