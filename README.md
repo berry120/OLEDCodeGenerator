@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/83f88f5a148741fc8816a7fbb3f4f6a3)](https://app.codacy.com/app/berry120/OLEDCodeGenerator?utm_source=github.com&utm_medium=referral&utm_content=berry120/OLEDCodeGenerator&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/berry120/OLEDCodeGenerator.svg?branch=master)](https://travis-ci.org/berry120/OLEDCodeGenerator)
 
 # OLEDCodeGenerator
