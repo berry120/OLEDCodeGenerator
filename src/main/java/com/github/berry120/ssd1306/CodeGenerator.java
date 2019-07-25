@@ -1,4 +1,4 @@
-package org.berry120.ssd1306;
+package com.github.berry120.ssd1306;
 
 import java.io.FileReader;
 import java.io.IOException;

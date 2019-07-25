@@ -1,4 +1,4 @@
-package org.berry120.ssd1306;
+package com.github.berry120.ssd1306;
 
 /**
  * Simple wrapper object containing information about the graphic to be
