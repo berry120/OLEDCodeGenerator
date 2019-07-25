@@ -6,7 +6,19 @@ Small utility to generate custom graphics code (compatible with the U8Glib libra
 
 The graphic code will be produced assuming each cell in the CSV file is a pixel. If the cell contains any character the pixel will be turned on, if it is empty the pixel will be off.
 
-Example usage:
+## Setup
+
+### Maven
+    <dependency>
+      <groupId>com.github.berry120.ssd1306</groupId>
+      <artifactId>SSD1306</artifactId>
+      <version>1.0</version>
+    </dependency>
+
+### Gradle
+    compile 'com.github.berry120.ssd1306:SSD1306:1.0'
+    
+## Example usage
 
     /**
      * Simple demo usage.
